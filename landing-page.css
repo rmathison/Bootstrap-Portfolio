@@ -199,8 +199,6 @@ p.copyright {
 }
 
 #img1 {
-margin-left: 640px;
-margin-top: 20px;
 border: 1px solid grey;
 border-radius: 60%;
 }
@@ -209,3 +207,4 @@ border-radius: 60%;
     background-color: blue;
     opacity: .5;
 }
+
